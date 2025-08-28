@@ -7,7 +7,7 @@ Reg no: 212223100040
 ## Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
 
-## 3.a) Installation and Configuration of Oracle VirtualBox
+##  Installation and Configuration of Oracle VirtualBox
 
 ## Aim:
 To install and configure Oracle VM VirtualBox.
